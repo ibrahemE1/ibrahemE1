@@ -20,7 +20,7 @@ I work with **oil filtration** and **hydraulic solutions**, helping deliver reli
 - [LinkedIn](https://www.linkedin.com/in/ibrahem-fawzy-3058a750/)
 - [EHP website](https://www.ehp-eg.com)
 - [EHP on Facebook](https://www.facebook.com/EHPhydraulicegypt)
-- [Email](mailto:technical@ehp-eg.com)
+
 
 ## :telephone_receiver: Contact
 
