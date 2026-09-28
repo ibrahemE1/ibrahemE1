@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ibrahem_mechanical_banner.gif" alt="Ibrahem Fawzy | Engineering for Hydraulics & Pneumatics" />
+  <img src="https://raw.githubusercontent.com/ibrahemE1/ibrahemE1/main/ibrahem_mechanical_banner.gif" alt="Ibrahem Fawzy | Engineering for Hydraulics & Pneumatics" />
 </p>
 
 ## :wave: Hi, I'm Ibrahem Fawzy
