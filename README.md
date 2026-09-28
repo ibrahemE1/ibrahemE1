@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://github.com/ibrahemE1/sora01/blob/main/ibrahem_mechanical_banner.gif)" alt="Hi, I'm Ibrahem  👋 I'm a 🚀 Egyptian Mechanical Engineer 🚀  ❤️  welcome the tolerant. ❤️">
+  <img src="ibrahem_mechanical_banner.gif" alt="Hi, I'm Ibrahem  👋 I'm a 🚀 Egyptian Mechanical Engineer 🚀  ❤️  welcome the tolerant. ❤️">
 </p>
 
 <!--
